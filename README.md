@@ -42,4 +42,5 @@ Principais ferramentas e frameworks para se trabalhar com Java profissionalmente
 
 - Spring Data MongoDB - framework para acesso a dados NoSQL ao banco MongoDB
 
-### Em andamento 🚧 
+### Status:
+### - Em andamento 🚧 
